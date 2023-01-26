@@ -109,7 +109,7 @@ img {
 }
 
 /* For smaller screen */
-/* @media (max-width: 260px) {
+@media (max-width: 260px) {
   :root {
     --head: 1.3rem;
     --text: 0.9rem;
@@ -132,7 +132,7 @@ img {
   .btn {
     padding: 0.6em 0;
   }
-} */
+}
 
 /* For PC & HD+ screen */
 @media (min-width: 650px) {
